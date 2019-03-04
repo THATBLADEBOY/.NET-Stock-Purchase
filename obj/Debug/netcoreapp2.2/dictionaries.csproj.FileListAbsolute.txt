@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/backend-workspace/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.deps.json
+/Users/Blade/Desktop/backend-workspace/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.runtimeconfig.json
+/Users/Blade/Desktop/backend-workspace/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.runtimeconfig.dev.json
+/Users/Blade/Desktop/backend-workspace/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.dll
+/Users/Blade/Desktop/backend-workspace/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.pdb
+/Users/Blade/Desktop/backend-workspace/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.csprojAssemblyReference.cache
+/Users/Blade/Desktop/backend-workspace/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/backend-workspace/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/backend-workspace/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.AssemblyInfo.cs
+/Users/Blade/Desktop/backend-workspace/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.dll
+/Users/Blade/Desktop/backend-workspace/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.pdb
